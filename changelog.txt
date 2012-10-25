@@ -1,0 +1,25 @@
+Feb 18 2012 - Build 12:
+    - Enemies want you FUCKING DEAD now, tweaked their stats
+    - Shrunk the windows build a bit
+
+
+Feb 15 2012 - Build 11:
+    - Better show fps (works in fs), fps_interval option
+    - new config options are automatically added to user.ini
+    - paths are properly handled, shortcuts to the exe should work now
+
+
+Feb 11 2012 - Build 10ish:
+    - Middle mouse button now drags the camera
+    - showfps option in settings
+    - Use system fonts now instead of that stolen font
+    - Smaller buttons
+    - Resources managed better
+    - Testing py2exe things - fuck it, no icon
+    - Readme and changelog!
+    - code cleanup
+    - more management (why do I love it so right now?)
+
+
+PREVIOUS BUILDS:
+    - lol I dunno, the basics?
